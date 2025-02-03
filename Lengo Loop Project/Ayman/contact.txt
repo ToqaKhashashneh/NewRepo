@@ -1,0 +1,11 @@
+aymanmalkawi80@yahoo.com,Ayman,hello
+bilal@yahoo.com,bilal,hello ayman
+ayman@yahoo.com,ayman Malkawi,good morning bilal
+ayman@malkawi,anas Malkawi,good morning anas
+ayman@malkawi,anas Malkawi,Hello
+khasawneh@gmail.com,khasawneh,good evening
+khasawneh@gmail.com,khasawneh,good evening
+toqamusa@gmail.com,Toqa,Hi
+ali_khasawneh@gmail.com,ali_khasawneh,ayman wenak 
+
+toqamusa@gmail.com,Toqa,Hi

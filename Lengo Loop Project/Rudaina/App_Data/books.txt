@@ -1,0 +1,12 @@
+1,Viva la accion: Live Action Spanish,Contee Seely Elizabeth Kuizenga,2010-02-05,Philosophy,English,1,4,Pending,~/Rudaina/img/1f87f6be-8239-48d2-b0d2-b2e6a173fbd5.jpg
+2,The LORD Of The KINGS,Sarah Geston,2012-02-05,Fiction,English,1,4,Available,~/Rudaina/img/4a97620e-60fa-4634-a0f0-096b6838c0f5.png
+3,Simple & Minimalist,John Tribiani,2012-02-05,Philosophy,English,1,4,Available,~/Rudaina/img/b27dce68-251d-40ce-8511-99c5bc982e3c.png
+4,Teaching English as a Foreign or Second Language,JERRY G. GEBHARD,2012-02-05,Philosophy,English,1,4,Available,~/Rudaina/img/06f39c4b-58c4-4841-a29c-62bdca9e4451.jpg
+5,Muted,Haruki Murakami,2017-02-05,Philosophy,English,1,4,Available,~/Rudaina/img/94f72c2f-05fd-4944-926e-9f4af422bda4.png
+6,The Hobbit,J.R.R TOLKIEN,0037-09-21,Philosophy,English,1,4,Pending,~/Rudaina/img/5732a3fc-aa4e-49c2-af7c-37e9a2c12f55.jpg
+7,A Brief  History Of Time,Stephan Hawking,1988-04-11,History,English,1,4,Available,~/Rudaina/img/443a895d-0f32-4337-a5fe-1e3496d37e99.jpg
+8,The Poppy War,R.F. KUNAG,2018-01-04,History,English,1,4,Available,~/Rudaina/img/a318869d-76f2-4248-9112-11a38cd9c940.jpg
+9,The Outsider,Stephen King,2018-05-22,Fiction,English,1,4,Available,~/Rudaina/img/cea624a0-c89c-468d-9a1b-72d6aebf7eb8.jpg
+10,Again But Better,Christine Riccio,2019-05-07,Fiction,English,1,4,Available,~/Rudaina/img/816e3928-5068-4534-8150-9407eeda1683.jpg
+11,The Importance Of Being Interested,Robin Ince,2021-10-07,Philosophy,English,1,4,Available,~/Rudaina/img/42e3c2bf-3a55-49df-8e7b-0842497b62b2.jpg
+12,Philosophy,Mark Ince,2021-10-07,Philosophy,English,1,4,Rented,~/Rudaina/img/14f701be-17c9-4c84-9fd6-e234ee55773e.jpg

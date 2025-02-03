@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Lengo_Loop_Project")]
+[assembly: AssemblyTitle("Library_Website")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Lengo_Loop_Project")]
+[assembly: AssemblyProduct("Library_Website")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2782bddd-b93b-40b8-bc00-c8695314cc6d")]
+[assembly: Guid("c1ab95e9-cd83-463d-bd88-7d3b4780a84b")]
 
 // Version information for an assembly consists of the following four values:
 //
